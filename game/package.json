@@ -1,0 +1,20 @@
+{
+  "name": "game",
+  "version": "1.0.0",
+  "description": "",
+  "main": "game.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node game.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "aabb-2d": "0.0.0",
+    "crtrdg-entity": "^1.0.0",
+    "crtrdg-keyboard": "^1.0.1",
+    "crtrdg-mouse": "^1.0.0",
+    "gameloop-canvas": "^1.1.2",
+    "inherits": "^2.0.1"
+  }
+}
